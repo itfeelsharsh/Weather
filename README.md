@@ -9,8 +9,8 @@
 
 -download code       
 -make sure that i have npm and node js  
--open command prompt type and run "npm i"     
--run "npm start"     
+-open command prompt type and run `"npm i"`     
+-run `"npm start"`     
 Your weather app is live ⭐    
 
 ## Pictures
