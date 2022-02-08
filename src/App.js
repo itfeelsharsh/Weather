@@ -14,7 +14,7 @@ const App = () => {
             setWeather(data);
             setQuery('');
         }
-    }
+    }   
 
     return (
         <div className="main-container">
