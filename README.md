@@ -2,10 +2,10 @@
 
 ## Weather Check App
 
-- Simple Weather App Made with reactjs 
+- Simple Weather App Made with reactjs  
 - Simple api
 
-## Setup
+## Setup 
 
 -download code       
 -make sure that i have npm and node js  
